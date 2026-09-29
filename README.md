@@ -1,6 +1,6 @@
 # BTC Flow Radar
 
-A dark, neon-style BTC perpetual chart with a VPVR volume profile and daily ETF inflow/outflow for the
+A BTC perpetual chart, styled to match the ATLAS Suite boards, with a VPVR volume profile and daily ETF inflow/outflow for the
 US spot Bitcoin, Ether and Solana ETFs.
 
 **Live page: https://alicetin1905-ux.github.io/ETF/**
