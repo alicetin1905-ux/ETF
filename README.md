@@ -3,7 +3,9 @@
 A dark, neon-style BTC perpetual chart with a VPVR volume profile and daily ETF inflow/outflow for the
 US spot Bitcoin, Ether and Solana ETFs.
 
-Open `index.html` in a browser. There is no build step; the charts use TradingView Lightweight Charts from a CDN.
+**Live page: https://alicetin1905-ux.github.io/ETF/**
+
+Or open `index.html` in a browser. There is no build step; the charts use TradingView Lightweight Charts from a CDN.
 
 ## What's on the page
 
